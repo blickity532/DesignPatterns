@@ -1,0 +1,17 @@
+"filename", "language", "XML", "JSON", "C#", "Properties", "comment", "blank", "total"
+"c:\Users\blick\source\repos\DesignPatterns\DesignPatterns\Class1.cs", "C#", 0, 0, 33, 0, 1, 7, 41
+"c:\Users\blick\source\repos\DesignPatterns\DesignPatterns\DesignPatterns.csproj", "XML", 7, 0, 0, 0, 0, 3, 10
+"c:\Users\blick\source\repos\DesignPatterns\DesignPatterns\bin\Debug\net8.0\DesignPatterns.deps.json", "JSON", 0, 23, 0, 0, 0, 0, 23
+"c:\Users\blick\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 0, 3, 0, 1, 1, 5
+"c:\Users\blick\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net8.0\DesignPatterns.AssemblyInfo.cs", "C#", 0, 0, 9, 0, 10, 5, 24
+"c:\Users\blick\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net8.0\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 15, 0, 1, 16
+"c:\Users\blick\source\repos\DesignPatterns\DesignPatterns\obj\Debug\net8.0\DesignPatterns.GlobalUsings.g.cs", "C#", 0, 0, 7, 0, 1, 1, 9
+"c:\Users\blick\source\repos\DesignPatterns\DesignPatterns\obj\DesignPatterns.csproj.nuget.dgspec.json", "JSON", 0, 73, 0, 0, 0, 0, 73
+"c:\Users\blick\source\repos\DesignPatterns\DesignPatterns\obj\DesignPatterns.csproj.nuget.g.props", "XML", 16, 0, 0, 0, 0, 0, 16
+"c:\Users\blick\source\repos\DesignPatterns\DesignPatterns\obj\DesignPatterns.csproj.nuget.g.targets", "XML", 2, 0, 0, 0, 0, 0, 2
+"c:\Users\blick\source\repos\DesignPatterns\DesignPatterns\obj\Release\net8.0\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs", "C#", 0, 0, 3, 0, 1, 1, 5
+"c:\Users\blick\source\repos\DesignPatterns\DesignPatterns\obj\Release\net8.0\DesignPatterns.AssemblyInfo.cs", "C#", 0, 0, 9, 0, 10, 5, 24
+"c:\Users\blick\source\repos\DesignPatterns\DesignPatterns\obj\Release\net8.0\DesignPatterns.GeneratedMSBuildEditorConfig.editorconfig", "Properties", 0, 0, 0, 15, 0, 1, 16
+"c:\Users\blick\source\repos\DesignPatterns\DesignPatterns\obj\Release\net8.0\DesignPatterns.GlobalUsings.g.cs", "C#", 0, 0, 7, 0, 1, 1, 9
+"c:\Users\blick\source\repos\DesignPatterns\DesignPatterns\obj\project.assets.json", "JSON", 0, 79, 0, 0, 0, 0, 79
+"Total", "-", 25, 175, 71, 30, 25, 26, 352
